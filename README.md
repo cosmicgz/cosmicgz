@@ -3,11 +3,13 @@
 - 🌱 I’m currently learning clean code, algorithm, function vs class/object programming, neo-vim, arch, system programming and web development!
 - 💞️ I’m looking to collaborate on projects that insterests me be it a electron vs proton calcultor, front end web design, js, ml, data science, all that. 
 
+### 📝 Research 
+A lot of my work revolves around quantum networking. You can follow my readings in my Quantum-tech-papers repository.
+I have worked in quantum protocol design and testing with Netsquid and Python, a quantum error correction library for Julia's QUantum Clifford tool, and side by side comparisons of quantum networks against classical networks based on various topological distributions.
+At the moment I am experimenting with qiskit and error mitigation libraries.
 
-
-
-### 👩‍💻 Code 
-![GZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmicgz&count_private=true&show_icons=true&theme=nightowl&hide=prs,contribs)
+### Current Project
+'God's Eye' is a promising UBA/UEBA project that aims to address the growing challenge of cybersecurity. By automating the process of threat detection, the project promises to provide a proactive approach to cybersecurity. With the right resources and support, we believe that we can successfully complete this project and make a significant contribution to the field of cybersecurity.
 
 
 ### You can find me on: [LinkedIn][1].
@@ -20,6 +22,8 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me - cosmicgz11@gmail.com Don't hack it, just mail me!
 
+### 👩‍💻 Code 
+![GZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmicgz&count_private=true&show_icons=true&theme=nightowl&hide=prs,contribs)
 
 
 ![](https://komarev.com/ghpvc/?username=mgg39&style=for-the-badge&color=blueviolet)
